@@ -13,7 +13,7 @@ import {
   View
 } from 'react-native';
 import Dimensions from 'Dimensions';
-import DemoItem from './src/DemoItem/index';
+import DemoItem from './DemoItem/index';
 const windowHeight = Dimensions.get('window').height;
 const windowWidth   = Dimensions.get('window').width;
 const cRadius = 20;
